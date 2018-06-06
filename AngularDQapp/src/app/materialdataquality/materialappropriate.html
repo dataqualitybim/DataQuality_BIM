@@ -1,0 +1,46 @@
+﻿<div class="container">
+    <h2>Material Valid Details</h2>
+    <br />
+    <dqobjecttype *ngIf="materialappropriate"
+                  [IfcWall]="getifctypewall()"
+                  [IfcColumn]="getifctypecolumn()"
+                  [IfcBeam]="getifctypebeam()"
+                  (countRadioButtonSelectionChanged)="onifcobjecttypeRadioButtonChange($event)"></dqobjecttype>
+    <br />
+    <div class="table-responsive" style="height:250px; overflow: auto">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Global Id</th>
+                    <th>IFC type</th>
+                    <th>Name</th>
+                    <th>Tag</th>
+                    <th>Briete <span style="font-size:10px; color:red">(*wall)</span></th>
+                    <th>Lange <span style="font-size:10px; color:red">(*wall)</span></th>
+                    <th>Volume</th>
+                    <th>Height</th>
+                    <th>Radius <span style="font-size:10px; color:red">(*column)</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <ng-container *ngFor="let material of materialappropriate">
+                    <tr *ngIf="selectedifcobjecttypeRadioButton==material.IfcType">
+                        <td>{{material.GlobalId}}</td>
+                        <td>{{material.IfcType}}</td>
+                        <td>{{material.Name}}</td>
+                        <td>{{material.Tag}}</td>
+                        <td>{{material.Briete}}</td>
+                        <td>{{material.Lange}}</td>
+                        <td>{{material.Volume}}</td>
+                        <td>{{material.Height}}</td>
+                        <td>{{material.Radius}}</td>
+
+                    </tr>
+
+                </ng-container>
+            </tbody>
+        </table>
+    </div>
+    <br />
+    <input type="button" class="btn btn-primary" (click)="onbackbuttonclick()" value="Back to Ifc list" />
+</div>

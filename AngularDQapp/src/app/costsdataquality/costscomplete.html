@@ -1,0 +1,44 @@
+﻿
+<div class="container">
+    <h2>Costs Complete Details</h2>
+    <br />
+    <dqobjecttype *ngIf="costscomplete"
+                  [IfcWall]="getifctypewall()"
+                  [IfcColumn]="getifctypecolumn()"
+                  [IfcBeam]="getifctypebeam()"
+                  (countRadioButtonSelectionChanged)="onifcobjecttypeRadioButtonChange($event)"></dqobjecttype>
+    <br />
+    <div class="table-responsive" style="height:250px; overflow: auto">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Global Id</th>
+                    <th>IFC type</th>
+                    <th>Unit</th>
+                    <th>Amount</th>
+                    <th>UnitPrice</th>
+                    <th>Price</th>
+                    <th>Diameter</th>
+                    <th>Height</th>
+                </tr>
+            </thead>
+            <tbody>
+                <ng-container *ngFor="let cost of costscomplete;">
+                    <tr *ngIf="selectedifcobjecttypeRadioButton==cost.IfcType">
+                        <td>{{cost.GlobalId}}</td>
+                        <td>{{cost.IfcType}}</td>
+                        <td>{{cost.Unit}}</td>
+                        <td>{{cost.Amount}}</td>
+                        <td>{{cost.UnitPrice}}</td>
+                        <td>{{cost.Price}}</td>
+                        <td>{{cost.Diameter}}</td>
+                        <td>{{cost.Height}}</td>
+                    </tr>
+
+                </ng-container>
+            </tbody>
+        </table>
+        </div>
+        <br />
+        <input type="button" class="btn btn-primary" (click)="onbackbuttonclick()" value="Back to Ifc list" />
+    </div>

@@ -1,0 +1,13 @@
+﻿<span>Show:</span>&nbsp;&nbsp;&nbsp;
+<div class="visible-xs-block visible-sm-inline visible-md-inline visible-lg-inline">
+    <input type="radio" name="options" value="IFCWall" [(ngModel)]="selectedRadioButtonValue" (change)="onRadioButtonSelectionChange()">
+    {{"IFC wall(" + IfcWall + ")"}}&nbsp;&nbsp;
+</div>
+<div class="visible-xs-block visible-sm-inline visible-md-inline visible-lg-inline">
+    <input type="radio" name="options" value="IFCColumn" [(ngModel)]="selectedRadioButtonValue" (change)="onRadioButtonSelectionChange()">
+    {{"IFC Column(" + IfcColumn + ")"}}
+</div>
+<div class="visible-xs-block visible-sm-inline visible-md-inline visible-lg-inline">
+    <input type="radio" name="options" value="IFCBeam" [(ngModel)]="selectedRadioButtonValue" (change)="onRadioButtonSelectionChange()">
+    {{"IFC beam(" + IfcBeam + ")"}}
+</div>

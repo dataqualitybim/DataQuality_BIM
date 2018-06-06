@@ -1,0 +1,42 @@
+﻿<div class="container">
+    <h2>Ifc invalid Details</h2>
+    <dqobjecttype *ngIf="ifcinvalid"
+                  [IfcWall]="getifctypewall()"
+                  [IfcColumn]="getifctypecolumn()"
+                  [IfcBeam]="getifctypebeam()"
+                  (countRadioButtonSelectionChanged)="onifcobjecttypeRadioButtonChange($event)"></dqobjecttype>
+    <br />
+    <div class="table-responsive" style="height:250px; overflow: auto">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Global Id</th>
+                    <th>IFC type</th>
+                    <th>Name</th>
+                    <th>Tag</th>
+                    <th>Material</th>
+                    <th>Breite <span style="font-size:10px; color:red">(*wall)</span></th>
+                    <th>Betonklasse</th>
+                    <th>Radius <span style="font-size:10px; color:red">(*column)</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <ng-container *ngFor="let ifc of ifcinvalid;">
+                    <tr *ngIf="selectedifcobjecttypeRadioButton==ifc.IfcType">
+                        <td>{{ifc.GlobalId}}</td>
+                        <td>{{ifc.IfcType}}</td>
+                        <td>{{ifc.Name}}</td>
+                        <td>{{ifc.Tag}}</td>
+                        <td>{{ifc.Material}}</td>
+                        <td>{{ifc.Breite}}</td>
+                        <td>{{ifc.Betonklasse}}</td>
+                        <td>{{ifc.Radius}}</td>
+                    </tr>
+
+                </ng-container>
+            </tbody>
+        </table>
+        </div>
+        <br />
+        <input type="button" class="btn btn-primary" (click)="onbackbuttonclick()" value="Back to Ifc list" />
+    </div>

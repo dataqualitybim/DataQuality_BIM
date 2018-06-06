@@ -1,0 +1,30 @@
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\bin\AngularDQapp.dll.config
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\bin\AngularDQapp.dll
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\bin\AngularDQapp.pdb
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.dll
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.pdb
+C:\Users\visha\source\repos\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csprojResolveAssemblyReference.cache
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\bin\AngularDQapp.dll.config
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\bin\AngularDQapp.dll
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\bin\AngularDQapp.pdb
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.dll
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.pdb
+C:\Users\visha\Desktop\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csprojResolveAssemblyReference.cache
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csprojResolveAssemblyReference.cache
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\bin\AngularDQapp.dll.config
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\bin\AngularDQapp.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\bin\AngularDQapp.pdb
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.pdb
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.csprojResolveAssemblyReference.cache
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\AngularDQapp\obj\Debug\AngularDQapp.pdb

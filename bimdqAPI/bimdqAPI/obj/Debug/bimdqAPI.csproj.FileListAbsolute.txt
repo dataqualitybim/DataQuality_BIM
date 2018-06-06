@@ -1,0 +1,51 @@
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\bimdqAPI.dll.config
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\bimdqAPI.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\bimdqAPI.pdb
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\Newtonsoft.Json.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\System.Net.Http.Formatting.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\System.Web.Http.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\System.Web.Http.WebHost.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\Newtonsoft.Json.xml
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\System.Net.Http.Formatting.xml
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\System.Web.Http.xml
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\bin\System.Web.Http.WebHost.xml
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.csprojResolveAssemblyReference.cache
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.csproj.CoreCompileInputs.cache
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.dll
+c:\users\visha\source\repos\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.pdb
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\bimdqAPI.dll.config
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\bimdqAPI.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\bimdqAPI.pdb
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\Newtonsoft.Json.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\Newtonsoft.Json.xml
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.xml
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.dll
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.pdb
+C:\Users\visha\Desktop\Masters\2nd Sem\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.csprojResolveAssemblyReference.cache
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\bimdqAPI.dll.config
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\bimdqAPI.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\bimdqAPI.pdb
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\Newtonsoft.Json.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\Newtonsoft.Json.xml
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.xml
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.csprojResolveAssemblyReference.cache
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.csproj.CoreCompileInputs.cache
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.dll
+C:\Users\revan\Downloads\AngularDQapp\AngularDQapp\bimdqAPI\bimdqAPI\obj\Debug\bimdqAPI.pdb
